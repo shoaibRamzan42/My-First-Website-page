@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.595761bf.css",
+    "main.js": "/static/js/main.8613e637.js",
+    "static/media/Money-Heist-was-first-released-on-Antena-3-in-Spain-in-2017-Netflix.webp": "/static/media/Money-Heist-was-first-released-on-Antena-3-in-Spain-in-2017-Netflix.4df32d59d6edc7e6d720.webp",
+    "static/media/Dark.jpg": "/static/media/Dark.de99867044a5624047ce.jpg",
+    "static/media/stranger.jpg": "/static/media/stranger.a070aff21a8d61f0e445.jpg",
+    "static/media/neon.jpg": "/static/media/neon.daa0fabd2a6207a65a76.jpg",
+    "static/media/Daredevil_season_1_poster.jpg": "/static/media/Daredevil_season_1_poster.7748d23b49d540929db1.jpg",
+    "index.html": "/index.html",
+    "main.595761bf.css.map": "/static/css/main.595761bf.css.map",
+    "main.8613e637.js.map": "/static/js/main.8613e637.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.595761bf.css",
+    "static/js/main.8613e637.js"
+  ]
+}
